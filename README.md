@@ -19,7 +19,7 @@ If you have Docker & Docker-Compose installed on your system
 
 `Visit http://127.0.0.1:8002/docs/ to for the API documentation`
 
-#API Documentation#
+# API Documentation
 
 API Endpoint                   | HTTP Method   | Result
 -------------                  | ------------- | -------------
