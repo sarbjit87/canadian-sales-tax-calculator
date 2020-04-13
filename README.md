@@ -11,14 +11,6 @@ If you have Docker & Docker-Compose installed on your system
 
 `Visit http://127.0.0.1:8002/docs/ for the API documentation`
 
-**Setup using traditional approach**
-
-`git clone https://github.com/sarbjit87/canadian-sales-tax-calculator.git`
-
-`pip -r requirements.txt`
-
-`Visit http://127.0.0.1:8002/docs/ for the API documentation`
-
 **API Documentation**
 
 API Endpoint                   | HTTP Method   | Result
