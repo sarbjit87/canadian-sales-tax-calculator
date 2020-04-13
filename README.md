@@ -1,5 +1,5 @@
 # canadian-sales-tax-calculator
-REST API for calculating Canadian Sales Tax based on province
+REST API implemented using FastAPI for calculating Canadian Sales Tax based on province
 
 **Setup using DOCKER**
 
@@ -9,7 +9,7 @@ If you have Docker & Docker-Compose installed on your system
 
 `docker-compose up -d --build`
 
-`Visit http://127.0.0.1:8002/docs/ to for the API documentation`
+`Visit http://127.0.0.1:8002/docs/ for the API documentation`
 
 **Setup using traditional approach**
 
