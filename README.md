@@ -29,15 +29,18 @@ API Endpoint                   | HTTP Method   | Result
 /get-tax/                      | POST          | Returns the tax on the total price for individual province
 
 e.g. /get-tax/ with the request-body as
+```
 {
   "price": 10.54,
   "province": "QC"
 }
-
+```
+```
 curl -X POST "http://127.0.0.1:8002/get-tax/" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"price\":10.54,\"province\":\"QC\"}"
+```
 
 will return
-
+```
 {
   "price": 10.54,
   "province": "QC",
@@ -47,7 +50,7 @@ will return
   "tax_amount": 1.58,
   "price_with_tax": 12.12
 }
-
+```
 **Source for tax-rates**
 
 Tax-rates are copied/referenced from the website https://canadabusiness.ca/government/taxes-gst-hst/federal-tax-information/overview-of-charging-and-collecting-sales-tax/?it=eng/page/2651/
