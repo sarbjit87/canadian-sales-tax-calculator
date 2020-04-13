@@ -1,20 +1,22 @@
 # canadian-sales-tax-calculator
 REST API for calculating Canadian Sales Tax based on province
 
-#INSTALLATION#
-
-##USING DOCKER##
+# Setup using DOCKER
 
 If you have Docker & Docker-Compose installed on your system
 
 `git clone https://github.com/sarbjit87/canadian-sales-tax-calculator.git`
+
 `docker-compose up -d --build`
+
 `Visit http://127.0.0.1:8002/docs/ to for the API documentation`
 
-##Python traditional approach##
+# Setup using traditional approach
 
 `git clone https://github.com/sarbjit87/canadian-sales-tax-calculator.git`
+
 `pip -r requirements.txt`
+
 `Visit http://127.0.0.1:8002/docs/ to for the API documentation`
 
 #API Documentation#
