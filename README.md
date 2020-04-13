@@ -17,7 +17,7 @@ If you have Docker & Docker-Compose installed on your system
 
 `pip -r requirements.txt`
 
-`Visit http://127.0.0.1:8002/docs/ to for the API documentation`
+`Visit http://127.0.0.1:8002/docs/ for the API documentation`
 
 **API Documentation**
 
