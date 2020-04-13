@@ -1,0 +1,80 @@
+{
+  "Alberta" : {
+    "GST": 5,
+    "PST": 0,
+    "TOTAL": 5,
+    "TYPE": "GST"
+  },
+  "British Columbia" : {
+    "GST": 5,
+    "PST": 7,
+    "TOTAL": 12,
+    "TYPE": "GST + PST"
+  },
+  "Manitoba" : {
+    "GST": 5,
+    "PST": 7,
+    "TOTAL": 12,
+    "TYPE": "GST + PST"
+  },
+  "New Brunswick" : {
+    "GST": 5,
+    "PST": 10,
+    "TOTAL": 15,
+    "TYPE": "HST"
+  },
+  "Newfoundland and Labrador" : {
+    "GST": 5,
+    "PST": 10,
+    "TOTAL": 15,
+    "TYPE": "HST"
+  },
+  "Northwest Territories" : {
+    "GST": 5,
+    "PST": 0,
+    "TOTAL": 5,
+    "TYPE": "GST"
+  },
+  "Nova Scotia" : {
+    "GST": 5,
+    "PST": 10,
+    "TOTAL": 15,
+    "TYPE": "HST"
+  },
+  "Nunavut" : {
+    "GST": 5,
+    "PST": 0,
+    "TOTAL": 5,
+    "TYPE": "GST"
+  },
+  "Ontario" : {
+    "GST": 5,
+    "PST": 8,
+    "TOTAL": 13,
+    "TYPE": "HST"
+  },
+  "Prince Edward Island" : {
+    "GST": 5,
+    "PST": 10,
+    "TOTAL": 15,
+    "TYPE": "HST"
+  },
+  "Quebec" : {
+    "GST": 5,
+    "PST": 9.975,
+    "TOTAL": 14.975,
+    "TYPE": "GST + PST"
+  },
+  "Saskatchewan" : {
+    "GST": 5,
+    "PST": 6,
+    "TOTAL": 11,
+    "TYPE": "GST + PST"
+  },
+  "Yukon" : {
+    "GST": 5,
+    "PST": 0,
+    "TOTAL": 5,
+    "TYPE": "GST"
+  }
+}
